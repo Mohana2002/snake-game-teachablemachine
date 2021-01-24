@@ -1,4 +1,4 @@
-# snake-game-teachablemachine
+# Snake-Game-TeachableMachine
 # My Team Members
 Name: D.Vaishnavi Email:19pa1a0538@vishnu.edu.in
 
