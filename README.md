@@ -13,7 +13,9 @@ Name:B.Mohana priya email:19pa10512@vishnu.edu.in
 
 # Resources
 https://teachablemachine.withgoogle.com/
+
 https://www.w3schools.com/
+
 Heroku deployment link:https://teachable-snake-game.herokuapp.com/
 
 # What we have learnt
