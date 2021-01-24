@@ -1,5 +1,5 @@
 # Snake-Game-TeachableMachine
-snake-food block
+snake-food block game
 # My Team Members
 Name: D.Vaishnavi Email:19pa1a0538@vishnu.edu.in
 
