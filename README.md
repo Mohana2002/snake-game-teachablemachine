@@ -1,1 +1,18 @@
 # snake-game-teachablemachine
+# My team members
+Name: D.Vaishnavi email:19pa1a0538@vishnu.edu.in
+Name:B.Mohana priya email:19pa10512@vishnu.edu.in
+# Prototype
+
+
+
+
+# My youtube video
+
+
+# Resources
+https://teachablemachine.withgoogle.com/
+https://www.w3schools.com/
+
+What we have learnt
+We have learnt how to collect data to some extent.
